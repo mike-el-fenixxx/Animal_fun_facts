@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Animal_fun_facts/static/css/main.83742d0d.css",
+    "main.js": "/Animal_fun_facts/static/js/main.6cbd7741.js",
+    "static/js/453.fedbe730.chunk.js": "/Animal_fun_facts/static/js/453.fedbe730.chunk.js",
+    "static/media/starfish.jpg": "/Animal_fun_facts/static/media/starfish.17d5032ac9fe038c94bc.jpg",
+    "static/media/lobster.jpg": "/Animal_fun_facts/static/media/lobster.066c8d1d5e478f154c1c.jpg",
+    "static/media/dolphin.jpg": "/Animal_fun_facts/static/media/dolphin.e5844723197084fd8de2.jpg",
+    "index.html": "/Animal_fun_facts/index.html",
+    "main.83742d0d.css.map": "/Animal_fun_facts/static/css/main.83742d0d.css.map",
+    "main.6cbd7741.js.map": "/Animal_fun_facts/static/js/main.6cbd7741.js.map",
+    "453.fedbe730.chunk.js.map": "/Animal_fun_facts/static/js/453.fedbe730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83742d0d.css",
+    "static/js/main.6cbd7741.js"
+  ]
+}
